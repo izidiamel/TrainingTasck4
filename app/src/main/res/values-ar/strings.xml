@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تدريب رقم 4</string>
+    <string name="choice_photo">التقاط صورة من الكامرا</string>
+    <string name="choice_video">التقاط فيديو من الكامرا</string>
+    <string name="start_chat">بداية المحادثة</string>
+    <string name="user_server_name">إزيــدي امــال</string>
+    <string name="user_client_name">البلباسي عمر</string>
+    <string name="Connected">متـصل</string>
+    <string name="Show_Photo">عرض الصورة</string>
+    <string name="Show_Video">عرض الفيديو</string>
+    <string name="message_send_at">"رسالة مرسلة في :  "</string>
+    <string name="at">في :</string>
+</resources>

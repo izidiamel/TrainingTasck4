@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="100dp"
+    android:orientation="vertical"
+    >
+    <TextView
+        android:textColor="@android:color/black"
+        android:textSize="24sp"
+        android:id="@+id/choice1"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:text ="@string/choice_photo" />
+    <TextView
+        android:textSize="24sp"
+        android:textColor="@android:color/black"
+        android:id="@+id/choice2"
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:padding="10dp"
+        android:text="@string/choice_video" />
+
+</LinearLayout>
